@@ -9,8 +9,11 @@
 🌎 Fun fact: I love to travel!
 
 🚀 Technical Skills
+
 Tech: Python, SQL, HTML NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch, Keras, Flask, Plotly, Dash, Matplotlib, Heroku 
+
 Machine Learning: Neural Networks, NLP, Clustering, Regression, Classification, Computer Vision, Time-Series Analysis
+
 Other: Spanish Proficiency, Tableau, Excel, Client Relations & Negotiation, Jira & Confluence, PowerPoint & Keynote
 
 📍 Where to Find Me 
