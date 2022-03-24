@@ -17,7 +17,7 @@ Machine Learning: Neural Networks, NLP, Clustering, Regression, Classification, 
 Other: Spanish Proficiency, Tableau, Excel, Client Relations & Negotiation, Jira & Confluence, PowerPoint & Keynote
 
 📍 Where to Find Me 
-💻️ Los Angeles, CA or Connect with me on LinkedIn
+💻️ Los Angeles, CA or Connect with me on [LinkedIn](https://www.linkedin.com/in/gerrit-van-zyll/)
 
 <!--
 **gvanzyll/gvanzyll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
